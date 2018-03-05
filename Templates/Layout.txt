@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Discover | Mockingbird</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<header>
+		
+		<img src="http://www.stilljournal.net/resources/rb%20morris%20mockingbird%201copy.jpg" width="100" height="110">
+		<h1>Mockingbird: Music Reviews for the Music Lover.</h1>
+	
+	</header>
+	<body>
+		
+	</body>
+	<footer>
+		<pre>
+		Site written and maintained by Ken Meiners
+		for inquiries or suggestions e-mail Ken at:
+			Kmeiners495@hotmail.com
+		</pre>
+	</footer>
+</html>
